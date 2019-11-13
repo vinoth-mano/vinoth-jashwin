@@ -9,6 +9,8 @@ public class DemoApplication {
 		
 	ArrayList <String> dd= new ArrayList();
 	
+	dd.add("vinoth");
+	dd.add("Jashwin");
 	}
 
 }
